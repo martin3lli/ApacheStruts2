@@ -1,2 +1,2 @@
 # ApacheStruts2
-ApacheStruts automatic tool.
+😼 ApacheStruts automatic exploitable tool
