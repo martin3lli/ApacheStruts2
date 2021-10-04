@@ -10,8 +10,8 @@ logo = r"""
     `=\/\ ApacheStruts
      `=\/\  Exploit
       `=\/ 
-        \ by @3xploitable
-"""
+        \ by mrtn3lli
+"""3xploitable
 
 
 session = requests.session()
