@@ -11,7 +11,7 @@ logo = r"""
      `=\/\  Exploit
       `=\/ 
         \ by mrtn3lli
-"""3xploitable
+"""
 
 
 session = requests.session()
